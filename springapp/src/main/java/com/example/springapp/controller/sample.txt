@@ -2,3 +2,5 @@ I have created a sample file called sample.txt
 I am now in my child branch
 
 This is  a new text added to the child
+
+Lines added new in main
