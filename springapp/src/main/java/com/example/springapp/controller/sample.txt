@@ -3,4 +3,4 @@ I am now in my child branch
 
 This is  a new text added to the child
 
-Lines added new in main
+Lines added new in main .  I am now adding a new line to the existing line
